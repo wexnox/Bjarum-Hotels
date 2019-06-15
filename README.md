@@ -1,6 +1,6 @@
 # IS-WEB1000 Webprogrammering Eksamen
 
-WEB1000 – HJEMMEEKSAMEN 2015/2016 (ny eksamen)
+##WEB1000 – HJEMMEEKSAMEN 2015/2016 (ny eksamen)
 Problemstilling.
 Hotellkjeden Bjarum Hotels er en fiktiv hotellkjede med hoteller over hele verden.
 Oppgaven går ut på å lage et nettsted og en vedlikeholdsapplikasjon for Bjarum Hotels. Nettstedet og vedlikeholdsapplikasjonen skal lages med egenutviklet kode.
